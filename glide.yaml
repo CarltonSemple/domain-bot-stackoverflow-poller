@@ -1,0 +1,5 @@
+package: github.com/carltonsemple/domain-bot-stackoverflow-poller
+import:
+- package: github.com/stretchr/testify/assert
+- package: gopkg.in/russross/blackfriday.v2
+- package: github.com/shurcooL/sanitized_anchor_name
